@@ -9,8 +9,8 @@ system_init()
 
 dbstar_start()
 {
-	setprop dbstar.dvbpush.started 1
-	setprop dbstar.smarthome.started 1
+#	setprop dbstar.dvbpush.started 1
+#	setprop dbstar.smarthome.started 1
 }
 
 dbstar_stop()
